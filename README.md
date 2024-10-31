@@ -38,7 +38,7 @@ I used Streamlit to create a user-friendly interface for easy interaction with t
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/sevdaimany/YOLOv8-Medical-Imaging.git
+   git clone https://github.com/rathorology/yolo_medical
    ```
 2. Navigate to the project directory:
 
