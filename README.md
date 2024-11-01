@@ -43,7 +43,7 @@ I used Streamlit to create a user-friendly interface for easy interaction with t
 2. Navigate to the project directory:
 
    ```bash
-   cd YOLOv8-Medical-Imaging
+   cd yolo_medical 
    ```
 3. Create a virtual environment (optional but recommended):
 
